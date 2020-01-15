@@ -1,1 +1,2 @@
-# Tribute Page for freeCodeCamp - Responsive Web Design Certification
+# Tribute Page
+freeCodeCamp - Responsive Web Design Certification
